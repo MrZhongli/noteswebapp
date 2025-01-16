@@ -5,3 +5,7 @@ export type Note = {
   }
   
   
+  export type Category = {
+    id: number;
+    name: string;
+  };
